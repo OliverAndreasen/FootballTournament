@@ -1,3 +1,5 @@
+using System;
+
 namespace FootballTournament.Models;
 
 public class Team
